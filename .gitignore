@@ -1,0 +1,10 @@
+*.lo
+*.la
+*.o
+*.slo
+*.a
+*.lai
+*.so
+/.project
+/.lib
+/.lib/
